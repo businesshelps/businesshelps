@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @businesshelps (Honey Sam) I have 5+ years of experience in WordPress and i am currently working with <a href="https://www.ournethelps.com" rel="nofollow">OurNetHelps</a> i love to do any type of WordPress Project.
-- 👀 I’m interested in WordPress, SEO Work and SMM Work.
-- 🌱 I’m currently learning app development and here is one of our blog article <a href="https://www.ournethelps.com/articles-post/which-programming-language-is-used-for-developing-native-ios-apps/" rel="nofollow">Which Programming Language is Used for Developing Native ios Apps?</a>
-- 📫 How to reach me. Here is our email services@ournethelps.com
+# 👋 Hi, I’m Sanjeev Kumar
 
-<!---
-businesshelps/businesshelps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a **WordPress Developer** with **5+ years of experience**.  
+Currently working with **[OurNetHelps.com](https://ournethelps.com)** where I create **free tools, calculators, and digital resources** to help people solve problems faster.  
+
+---
+
+## 💻 What I Do
+- 🛠️ WordPress Development (themes, plugins, optimization)  
+- 🔍 SEO Work & Social Media Marketing (SMM)  
+- 🌐 Creator of **50+ Free Online Tools & Calculators**:
+  - 📊 [Age Calculator](https://ournethelps.com/age-calculator/)  
+  - 💵 [PayPal Fee Calculator](https://ournethelps.com/paypal-fee-calculator/)  
+  - 🎓 [CGPA ⇄ Percentage Converter](https://ournethelps.com/cgpa-to-percentage-calculator/)  
+  - …and [more tools here](https://ournethelps.com/) 🚀  
+
+---
+
+## 👀 Interests
+- WordPress, SEO & SMM  
+- Web Utilities & AI Tools  
+- Open-source Projects & Collaboration  
+
+---
+⭐️ *If you find my projects useful, consider giving them a star on GitHub!*  
