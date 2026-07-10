@@ -7,8 +7,8 @@ I founded **[OurNetHelps](https://ournethelps.com)**, where I build white-label 
 
 ## 🚀 Current Focus
 
-- 🏠 Building **[MDE Pro](https://ournethelps.com/mde-pro/)** — a white-label mortgage readiness assessment and lead qualification platform for mortgage brokers
-- 🔧 Mortgage decision engines with borrower readiness scoring (0–100), approval likelihood analysis, DTI evaluation, and direct application routing
+- 🏠 Building **[MDE Pro](https://ournethelps.com/mde-pro/)** — a white-label mortgage readiness assessment that routes qualified borrowers into the broker's existing loan application
+- 🔧 Mortgage decision engines with borrower readiness scoring (0–100), approval likelihood analysis, DTI evaluation, and lead capture
 - 🔍 SEO and content marketing for B2B mortgage technology
 
 ---
@@ -16,7 +16,7 @@ I founded **[OurNetHelps](https://ournethelps.com)**, where I build white-label 
 ## 🏠 Mortgage Technology
 
 ### Flagship Products
-- 🔥 [MDE Pro](https://ournethelps.com/mde-pro/) — White-label mortgage readiness assessment and lead qualification platform
+- 🔥 [MDE Pro](https://ournethelps.com/mde-pro/) — White-label mortgage readiness assessment that routes qualified borrowers into the broker's existing loan application
 - 🏦 [Mortgage Decision Engine](https://ournethelps.com/tools/finance/mortgage-decision-engine/) — Borrower readiness scoring, buyer profile classification, DTI zone analysis, and hot lead alerts
 - 📈 [Mortgage Refinance Engine](https://ournethelps.com/tools/finance/mortgage-refinance-engine/) — Break-even tracking, cash-out scenarios, and rate-drop readiness scoring
 
