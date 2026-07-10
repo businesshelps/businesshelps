@@ -1,18 +1,54 @@
-# 👋 Hi, I’m Sanjeev Kumar
+# 👋 Hi, I'm Sanjeev Kumar
 
-I’m a **WordPress Developer and digital product builder**.  
-I run **[OurNetHelps.com](https://ournethelps.com)**, a platform where I create free online utilities, finance tools, education resources, and productivity tools to help people solve everyday digital problems.
-
-My work focuses on building fast, simple, and reliable tools that work directly in the browser and deliver accurate results.
+I'm a **WordPress Developer and digital product builder**.  
+I founded **[OurNetHelps](https://ournethelps.com)**, where I build white-label mortgage software, borrower readiness assessments, and embeddable calculators for mortgage brokers, lenders, and loan officers.
 
 ---
 
-## 💻 What I Do
+## 🚀 Current Focus
+
+- 🏠 Building **[MDE Pro](https://ournethelps.com/mde-pro/)** — a white-label mortgage readiness assessment and lead qualification platform for mortgage brokers
+- 🔧 Mortgage decision engines with borrower readiness scoring (0–100), approval likelihood analysis, DTI evaluation, and direct application routing
+- 🔍 SEO and content marketing for B2B mortgage technology
+
+---
+
+## 🏠 Mortgage Technology
+
+### Flagship Products
+- 🔥 [MDE Pro](https://ournethelps.com/mde-pro/) — White-label mortgage readiness assessment and lead qualification platform
+- 🏦 [Mortgage Decision Engine](https://ournethelps.com/tools/finance/mortgage-decision-engine/) — Borrower readiness scoring, buyer profile classification, DTI zone analysis, and hot lead alerts
+- 📈 [Mortgage Refinance Engine](https://ournethelps.com/tools/finance/mortgage-refinance-engine/) — Break-even tracking, cash-out scenarios, and rate-drop readiness scoring
+
+### Mortgage Calculators
+- 🏡 [Mortgage Affordability](https://ournethelps.com/tools/finance/mortgage-affordability-calculator/)
+- 💰 [Mortgage Payment](https://ournethelps.com/tools/finance/mortgage-payment-calculator/)
+- 📊 [DTI Ratio](https://ournethelps.com/tools/finance/dti-ratio-calculator/)
+- 🏦 [HELOC](https://ournethelps.com/tools/finance/heloc-calculator/)
+- 🏘️ [Rent vs Buy](https://ournethelps.com/tools/finance/rent-vs-buy-calculator/)
+- ⚖️ [Loan Comparison](https://ournethelps.com/tools/finance/loan-comparison-calculator/)
+- 🔄 [Mortgage Refinance](https://ournethelps.com/tools/finance/mortgage-refinance-calculator/)
+- 🏠 [True Cost of Homeownership](https://ournethelps.com/tools/finance/true-cost-of-homeownership-calculator/)
+- 💳 [Credit Card Interest](https://ournethelps.com/tools/finance/credit-card-interest-calculator/)
+
+📦 All mortgage tools at **[OurNetHelps.com/tools/finance](https://ournethelps.com/tools/finance/)**
+
+---
+
+## 💡 Skills & Expertise
+
+- 🛠️ WordPress Plugin & SaaS Development
+- 🏦 Mortgage Technology & Fintech
+- 📈 Technical SEO & Performance Optimization
+- 🔒 Privacy-first browser-based applications
+- ⚡ White-label lead qualification tools
+
+---
+
+## 💻 What I've Built
 
 - 🛠️ WordPress development for web tools and platforms  
-- 🔍 SEO and growth for digital products  
 - 🌐 Creator of 50+ free online tools and utilities, including:
-
   - 📊 [Age Calculator](https://ournethelps.com/tools/utilities/age-calculator/)  
   - 💵 [PayPal Fee Calculator](https://ournethelps.com/tools/finance/paypal-fee-calculator/)  
   - 🎓 [CGPA ⇄ Percentage Converter](https://ournethelps.com/tools/utilities/cgpa-to-percentage-calculator/)  
@@ -22,9 +58,20 @@ My work focuses on building fast, simple, and reliable tools that work directly 
 
 ## 👀 Interests
 
-- Web product development  
-- Finance utilities and education tools  
-- Open-source projects and collaboration  
+- Mortgage Technology (MortgageTech)
+- Fintech & SaaS
+- WordPress Development
+- Technical SEO
+- Open Source
+
+---
+
+## 🌐 Connect
+
+- 🌍 Website: [ournethelps.com](https://ournethelps.com)
+- 🏠 MDE Pro: [ournethelps.com/mde-pro](https://ournethelps.com/mde-pro/)
+- 💼 LinkedIn: [linkedin.com/in/raina42098](https://linkedin.com/in/raina42098)
+- 🐦 X: [@sanjeevbuilds](https://x.com/sanjeevbuilds)
 
 ---
 
